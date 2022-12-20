@@ -1,4 +1,4 @@
-# express-setup
+# Node.js (Express) Setup Made Easy: A Setup Guide for Any Application
 
 Starting a new project can be a time-consuming process, especially when it comes to building the server. You might find yourself copying and pasting code from old projects, trying to remember what each piece does and customizing it for your new project. But what if you had a basic setup that you could use for all your projects, so you could focus on the specific project logic instead?
 
