@@ -20,24 +20,4 @@ This setup includes the following features:
 
 With this Express setup, you'll save time not just on this project, but on all future projects as well. You won't have to spend time trying to remember code you wrote a year ago, or spend hours configuring packages and dependencies. You can just start coding for your project requirements right away. Plus, you'll never have to feel guilty about relying on your trusty editor of choice (khm... khm... VS Code) again!
 
-# Quick Start
-
-First, you should install all the dependencies. Navigate to the root folder and run the following command in the terminal:
-
-```
-npm install
-```
-
-Now, you can run the server with the follwing command:
-
-```
-npm start
-```
-
-Or, you can run the server in the development mode that will restart the server when any file changes:
-
-```
-npm run dev-start
-```
-
-Now, you can continue to add Models, Controllers, Routers, and all the specific logic for your new project.
+[Full article](https://codebeyondlimits.com/articles/node-js-express-setup-guide-for-any-application)
